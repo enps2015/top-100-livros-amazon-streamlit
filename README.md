@@ -29,8 +29,8 @@ Neste projeto, exploramos os 100 livros mais vendidos da Amazon em novembro de 2
 - As avaliações de clientes podem ser visualizadas na página `book_reviews.py`.
 
 ## Próximos Passos
-- Continue aprimorando o aplicativo, adicionando mais funcionalidades e visualizações.
-- Compartilhe o projeto no GitHub e em outras plataformas para atrair a atenção de recrutadores e colegas da área.
+- Continuar aprimorando o aplicativo, adicionando mais funcionalidades e visualizações.
+- Compartilhar o projeto no GitHub e em outras plataformas para atrair a atenção de recrutadores e colegas da área.
 
 ### Capturas de Tela
 
