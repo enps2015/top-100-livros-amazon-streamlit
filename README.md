@@ -86,4 +86,10 @@ Como um estudante de TI em transição de carreira para a área de TI, decidi me
 
 Minha jornada rumo à Data Science está apenas começando, mas estou animado para o que o futuro reserva! 🚀
 
+&#128065;&#8205;&#128488; Vídeo de Demonstração
+
+https://github.com/enps2015/top-100-livros-amazon-streamlit/assets/84017071/4c3e883a-7f94-4cb7-a9b4-3d8d86bc0aa4
+
+
+
 
